@@ -1,0 +1,4 @@
+,faithfulness,answer_relevancy,context_precision,context_recall
+COT,0.7483,0.4765,0.76,0.6
+PP,0.68,0.3738,0.76,0.6
+IP,0.68,0.3977,0.76,0.6
